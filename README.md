@@ -31,12 +31,6 @@ Using k-Nearest Neighbors, Support Vector Machines, Decision Trees, and clusteri
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
-
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
-
-#
-
 <img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
 
 Propose a simple deterministic classification model based on the co-occurrence of environmental parameters to predict the severity of certain storms. More specifically, decision tree models with parallel hyperparameter tuning were used to gain intuition about the tradeoffs of model quality and complexity for the imbalanced dataset.  The algorithm allocate a grid of 3 hyperparameters – minbucket (5,20,35), minsplit (20,60,100), and maxdepth(3,5,7,10), for 10-fold stratified cross- validated decision tree models, which results in a total of 36 configurations. 
