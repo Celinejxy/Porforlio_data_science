@@ -1,5 +1,5 @@
 ---
-title: 'HW5: Predicting Spending Based on Consumer Analysis'
+title: 'Predicting Spending Based on Consumer Analysis'
 author: "Xuyang Ji"
 date: "2023-03-06"
 output:
