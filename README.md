@@ -13,9 +13,9 @@ In this project, K-Means clustering analysis and multiple predictive models were
 
 #
 
-<img align="left" width="250" height="200" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
+<img align="left" width="250" height="180" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
 
-The data source used is obtained from Kaggle, comprised of 2,240 observed consumer characteristics across 29 attributes. The objective of the study is to divide the target customers on the basis of their significant features which could help the company maintain stronger bond with those high-spending customers in less marketing expenses.The data was analyzed by utilizing KMeans clustering along with PCA to identify clusters with similar consumer behaviors. Subsequently, kNN and Decision Tree classifiers were utilized for prediction, with hyperparameter tuning and cross-validation. Finally, the models were validated through advanced techniques such as ROC, precision, and recall.
+The objective of the study is to divide the target customers on the basis of their significant features which could help the company maintain stronger bond with those high-spending customers in less marketing expenses.The data was analyzed by utilizing KMeans clustering along with PCA to identify clusters with similar consumer behaviors. Subsequently, kNN and Decision Tree classifiers were utilized for prediction, with hyperparameter tuning and cross-validation. Finally, the models were validated through advanced techniques such as ROC, precision, and recall.
 
 
 #
