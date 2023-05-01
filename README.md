@@ -27,7 +27,7 @@ Alternating least squares and item-based collaborative-filtering algorithms were
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/wine.jpeg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
+<img align="left" width="250" height="150" src="Images/wine.jpg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
 
 Using k-Nearest Neighbors, Support Vector Machines, Decision Trees, and clustering algorithms on Wine_quality dataset with PCA for dimension reduction. By tuning parameters for each classifer, model qualities are comparied and studied using precision and recall metrics. The results show that the KNN algorithm has the best accuracy in predicting with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class. Meantime, decision trees are able to generate understandable rules without requiring much computation and prior knowledge. Additionally, using HAC and K-Means Clustering with various distance and linkahe functions to examine data structure. 
 
