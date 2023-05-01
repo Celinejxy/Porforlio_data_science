@@ -19,7 +19,7 @@ The data source used is obtained from Kaggle, comprised of 2,240 observed consum
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="250" height="250" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
 
 Alternating least squares and item-based collaborative-filtering algorithms were built for personalized jokes recommendation system. In addition, Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. Both models are tested with cross-validated and compared using RMSE. 
 
@@ -44,7 +44,7 @@ Propose a simple deterministic classification model based on the co-occurrence o
 
     - [Bayesian Statistics]: In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
 
-    - [Classifying Modelling anf Relevance Feedback Algorithm](https://github.com/Celinejxy/kNN_Rocchio_NewsGroups.git): I implemented KNN and Rocchio methods with TFIDF for text categorization. The output has shown that the most optimal kNN classifer outperforms the Rocchio classifer by approximately 1.5%, while with constantly better accuracy rate regardless of the number of K. While the dataset is large and the classes may not be linearly separable, kNN can handle complex classes better than Rocchio, which has a high bias and low variance.
+    - [Classifying Modelling and Relevance Feedback Algorithm](https://github.com/Celinejxy/kNN_Rocchio_NewsGroups.git): I implemented KNN and Rocchio methods with TFIDF for text categorization. The output has shown that the most optimal kNN classifer outperforms the Rocchio classifer by approximately 1.5%, while with constantly better accuracy rate regardless of the number of K. While the dataset is large and the classes may not be linearly separable, kNN can handle complex classes better than Rocchio, which has a high bias and low variance.
 
     - [Linear Regression](linear_regression): Performed standard multiple linear regression, lasso regression, rigid regression, and stochastic gradient descent for regression algorithms with feature selection methods. Finally, perform model selection to find the best "l1_ratio" parameter using SGDRegressor with  the "elasticnet" penalty parameter. 
 
@@ -53,5 +53,5 @@ Propose a simple deterministic classification model based on the co-occurrence o
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2)
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
 
