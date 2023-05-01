@@ -12,16 +12,16 @@ In this project, K-Means clustering analysis and multiple predictive models were
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Porforlio_data_science/blob/main/consumer_personality/hw5.pdf)**
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
 
 The data source used is obtained from Kaggle, comprised of 2,240 observed consumer characteristics across 29 attributes. The objective of the study is to divide the target customers on the basis of their significant features which could help the company maintain stronger bond with those high-spending customers in less marketing expenses.The data was analyzed by utilizing KMeans clustering along with PCA to identify clusters with similar consumer behaviors. Subsequently, kNN and Decision Tree classifiers were utilized for prediction, with hyperparameter tuning and cross-validation. Finally, the models were validated through advanced techniques such as ROC, precision, and recall.
 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/Porforlio_data_science/blob/main/jokes.html)**
+<img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
 
-An item-based collaborative-filtering personalized jokes recommendation system was built which can suggest joke items by picking out topN items from the centered cosine similarity. Meantime, Singular Value Decomposition was used to build to improve the quality of recommendation. Both models are tested with cross-validated and compared using MAE. 
+Alternating least squares and item-based collaborative-filtering algorithms were built for personalized jokes recommendation system. In addition, Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. Both models are tested with cross-validated and compared using RMSE. 
 
 #
 
