@@ -27,13 +27,13 @@ Alternating least squares and item-based collaborative-filtering algorithms were
 
 #
 
-<img align="left" width="250" height="150" src="Images/wine.jpg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
+<img align="left" width="250" height="180" src="Images/wine.jpg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
 
-Using k-Nearest Neighbors, Support Vector Machines, Decision Trees, and clustering algorithms on Wine_quality dataset with PCA for dimension reduction. By tuning parameters for each classifer, model qualities are comparied and studied using precision and recall metrics. The results show that the KNN algorithm has the best accuracy in predicting with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class. Meantime, decision trees are able to generate understandable rules without requiring much computation and prior knowledge. Additionally, using HAC and K-Means Clustering with various distance and linkahe functions to examine data structure. 
+Using k-Nearest Neighbors, Support Vector Machines, Decision Trees, and clustering algorithms with PCA for dimension reduction. By tuning parameters for each classifer, model qualities are studied using precision and recall. The results show that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class. Meantime, decision trees are able to generate understandable rules without requiring much computation and prior knowledge. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
+<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
 
 Propose a simple deterministic classification model based on the co-occurrence of environmental parameters to predict the severity of certain storms. More specifically, decision tree models with parallel hyperparameter tuning were used to gain intuition about the tradeoffs of model quality and complexity for the imbalanced dataset.  The algorithm allocate a grid of 3 hyperparameters – minbucket (5,20,35), minsplit (20,60,100), and maxdepth(3,5,7,10), for 10-fold stratified cross- validated decision tree models, which results in a total of 36 configurations. 
 
