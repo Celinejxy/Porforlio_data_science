@@ -19,7 +19,7 @@ The data source used is obtained from Kaggle, comprised of 2,240 observed consum
 
 #
 
-<img align="left" width="250" height="250" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
+<img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
 
 Alternating least squares and item-based collaborative-filtering algorithms were built for personalized jokes recommendation system. In addition, Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. Both models are tested with cross-validated and compared using RMSE. 
 
