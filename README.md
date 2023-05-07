@@ -6,37 +6,37 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Toxic Comment Classification using Wikipedia's Talk Page Edits Data](https://github.com/jjbocek/ToxicApp.git)**
+<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Toxic Comment Classification using Wikipedia's Talk Page Data](https://github.com/jjbocek/ToxicApp.git)**
 
-In this project, K-Means clustering analysis and multiple predictive models were created and executed to identify various forms of toxicity, such as threats, obscenity, insults, and identity-based hate. These models included logistic regression, Naïve Bayes, K-Means Clustering, KNN, SVD, and regularization for data analysis. The models were evaluated using TFIDF and Doc2Vec with cross-validation using a pipeline. To enhance the performance, an ensemble model was developed by combining the top three models via a "hard" vote.
+In this project, we aim to identify various forms of toxicity.  Multiple Supervised and Unsupervised methods were developed, including Logistic Regression, Naïve Bayes, K-Means Clustering and KNN; and TFIDF, Doc2Vec and SVD for Feature Engineering. A Pipeline was defined for full cycle implementation, allowing Cross Validation Optimization and model evaluation. Final model was implemented as the top three ensemble model via a "hard" vote.
 
 
 #
 
 <img align="left" width="250" height="180" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Predicting Spending Based on Consumer Analysis](https://github.com/Celinejxy/Predicting-Consumer-Spending.git)**
 
-The objective of the study is to divide the target customers on the basis of their significant features which could help the company maintain stronger bond with those high-spending customers in less marketing expenses.The data was analyzed by utilizing KMeans clustering along with PCA to identify clusters with similar consumer behaviors. Subsequently, kNN and Decision Tree classifiers were utilized for prediction, with hyperparameter tuning and cross-validation. Finally, the models were validated through advanced techniques such as ROC, precision, and recall.
+The objective of the study to help the company maintain stronger bonds with those high-spending customers in less marketing expenses. Here, I apply Segmentation on customers population and analyse their significant features. By applying KMeans Clustering along with PCA, I detect clusters with similar consumer behaviours. Clustering results were followed by predictive ML models, including training K-NN and Decision Tree classifiers, with Hyperparameter tuning and Cross-Validation. Finally, the models were validated through techniques such as ROC, precision, and recall.
+
 
 
 #
 
 <img align="left" width="250" height="200" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/dog-puns-collie-you-later.jpg"> **[Collaborative-filtering Jokes Recommendation Engine](https://github.com/Celinejxy/JESTER-DS)**
 
-Alternating least squares and item-based collaborative-filtering algorithms were built for personalized jokes recommendation system. In addition, self-implemented Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. All three models are tested with cross-validated and compared using RMSE. The main difference is that the item-based collaborative filtering (IBCF) is a memory-based method that computes similarity scores between items based on their co-occurrence in user interactions, while ALS is a matrix factorization algorithm and it efficiently runs itself in a parallel fashion.
-
+Alternating least squares(ALS) and item-based collaborative-filtering(IBCF) algorithms were built for personalized jokes recommendation system. In addition, self-implemented Singular Value Decomposition was used with IBCF to improve the computation cost of recommendation. All three models are tested with cross-validated and compared using RMSE. In development process, I take into account that the IBCF is a memory-based method that computes similarity scores between items based on their co-occurrence in user interactions, while ALS is a matrix factorization algorithm that allows running in an efficient parallel fashion.
 
 #
 
 <img align="left" width="250" height="180" src="Images/wine.jpg"> **[A Comparision of ML algorithm Using Wine Quality Dataset ](wine_quality)**
 
-Using k-Nearest Neighbors, Support Vector Machines, Decision Trees, and clustering algorithms with PCA for dimension reduction. By tuning parameters for each classifer, model qualities are studied using precision and recall. The results show that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class. Meantime, decision trees are able to generate understandable rules without requiring much computation and prior knowledge. 
+In this process, wine quality is modeled based on physicochemical tests by using various ML models and approaches as well as PCA for Dimension Reduction. 
+Models include K-NN, SVM, Decision Trees and Clustering, where each model’s performance was analyzed using precision and recall.Results shows that the KNN algorithm has the best accuracy with a precision value of 98%. In comparison, the SVM will occasionally misclassify an item in the minority class, whereas the Decision trees are able to generate understandable rules without requiring much computation and prior knowledge
 
 #
 
-<img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
+<img align="left" width="250" height="160" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/storm.jpeg"> **[Mining Geophysical Parameters Through Decision-tree Analysis](storm_ds)**
 
-Propose a simple deterministic classification model based on the co-occurrence of environmental parameters to predict the severity of certain storms. More specifically, decision tree models with parallel hyperparameter tuning were used to gain intuition about the tradeoffs of model quality and complexity for the imbalanced dataset.  The algorithm allocate a grid of 3 hyperparameters – minbucket (5,20,35), minsplit (20,60,100), and maxdepth(3,5,7,10), for 10-fold stratified cross- validated decision tree models, which results in a total of 36 configurations. 
-
+Developed a simple deterministic classification model to predict the severity of certain storms. The model is based on the co-occurrence of environmental parameters. Main effort was made on optimizing a Decision Tree model with parallel hyperparameter tuning. Process allowed us to gain intuition about the tradeoffs of model quality and complexity for the imbalanced dataset. Grid Search was applied on minbucket, minsplit and maxdepth hyperparameters, using Stratified Cross-Validated.
 
 <br />
 
@@ -54,6 +54,9 @@ Propose a simple deterministic classification model based on the co-occurrence o
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL
+- **Programming**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SAS;
+- **Analysis**: A/B Testing and Experimentation Design, Statistical Inference, Big Data Analytics, Tableau, SQL, Power BI;
+- **Machine Learning**: Supervised/Unsupervised, Regression, Optimization, Pipeline, NLP, Feature Engineering;
+- **Models**: Linear/Non-Linear, Ensemble methods, Decision Trees, Social Network Analysis, Time Series Analysis;
+
 
