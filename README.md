@@ -1,10 +1,24 @@
-# Data Science Portfolio - Xuyang Ji
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+# Welcome to My Data Science & Analytics Portfolio
+
+Hello! 👋 I'm Celine, a Senior Analyst with a strong background in data science and marketing analytics. This repository is a collection of my projects showcasing my expertise in extracting insights from complex datasets, building scalable solutions, and driving data-informed decision-making. From predictive modeling and A/B testing to building interactive dashboards, these projects reflect my dedication to delivering measurable business outcomes through advanced analytical methods.
 
 - **Email**: [xj2272@columbia.edu](xj2272@columbia.edu)
 - **LinkedIn**: [https://www.linkedin.com/in/xuyang-j-a34a1a93/](https://www.linkedin.com/in/xuyang-j-a34a1a93/)
 
-## Projects
+## What You'll Find Here
+This portfolio highlights:
+- Advanced statistical modeling and machine learning applications
+- End-to-end ETL pipelines and data automation workflows
+- Dynamic data visualization dashboards for actionable insights
+- Real-world business case studies in marketing, e-commerce, and customer analytics
+
+## Technical Skills & Core Competencies
+- **Programming**: Python (Pandas, Numpy, Scikit-Learn, SciPy, Keras, PyTorch, TensorFlow, Matplotlib), R (dplyr, ggplot2, caret, tidyr, shiny, forecast), SQL, SAS, Git
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Data Engineering & Analysis**: ETL Pipelines, A/B Testing, Statistical Inference, Big Data Analytics, Time Series Analysis
+- **Machine Learning**: Supervised/Unsupervised Learning, Regression, Optimization, Pipelines, NLP, Feature Engineering, Linear/Non-Linear Models, Ensemble Methods, Decision Trees, Clustering, Reinforcement Learning
+
+## Machine Learning Projects
 
 <img align="left" width="250" height="180" src="https://github.com/Celinejxy/Porforlio_data_science/blob/main/Images/toxic_comm.jpeg"> **[Toxic Comment Classification using Wikipedia's Talk Page Data](https://github.com/jjbocek/ToxicApp.git)**
 
